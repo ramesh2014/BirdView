@@ -9,5 +9,4 @@ public class RestServicePocApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RestServicePocApplication.class, args);
 	}
-//new comment3
 }
